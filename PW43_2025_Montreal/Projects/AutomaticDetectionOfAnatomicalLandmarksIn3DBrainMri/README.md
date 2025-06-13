@@ -14,7 +14,7 @@ key_investigators:
 
 - name: Sylvain Bouix
   affiliation: École de Technologie Supérieure
-  country: USA
+  country: Canada
 
 - name: Jarrett Rushmore
   affiliation: 'Boston University Medical '
